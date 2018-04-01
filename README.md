@@ -8,3 +8,4 @@ Also contains following
 2. Confirmation dialogue
 3. adding images in list view
 4. Using rating Bar
+5. Using back button in action bar
