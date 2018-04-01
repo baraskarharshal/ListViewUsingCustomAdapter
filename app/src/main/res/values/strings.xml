@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">AndroidCRUDApp</string>
+    <string-array name="country_names">
+        <item>
+            <country>IND</country>
+            <descr>India</descr>
+        </item>
+
+        <item>
+            <item>US</item>
+            <descr>United States of America</descr>
+        </item>
+
+        <item>
+            <item>UK</item>
+            <descr>United Kingdom</descr>
+        </item>
+
+
+    </string-array>
+    <string name="title_activity_main2">Main2Activity</string>
+    >
+</resources>
